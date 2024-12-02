@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm passionate about **web development**, **data engineering**, and **AI**. I love building projects that combine cutting-edge technologies with practical applications.  
 
-🔭 **Currently working on**: [SyncTech Robotics Project](https://github.com/JaySorawit/SyncTech-Robotics)  
+🔭 **Currently working on**: [Robotics Project](https://github.com/JaySorawit/SyncTech-Robotics)  
 🌱 **Learning**: Kotlin, RPA, Raspberry Pi  
 💬 **Ask me about**: JavaScript, TypeScript, Python, Web Development  
 📫 **Reach me**: [sorawit.mokt@gmail.com](mailto:sorawit.mokt@gmail.com)  
