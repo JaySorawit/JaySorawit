@@ -10,11 +10,7 @@ Welcome to my GitHub! I'm passionate about **web development**, **data engineeri
 ---
 
 ## 🧰 Skills & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=kotlin)  
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)  ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)  ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)  ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=kotlin)  ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)  ![.NET](https://img.shields.io/badge/-NET-333?style=flat&logo=.net)  
 
 ---
 
