@@ -21,11 +21,4 @@ Welcome to my GitHub! I'm passionate about **web development**, **data engineeri
 
 ---
 
-## 📌 Featured Projects  
-- **[ShowHuay](https://github.com/JaySorawit/ShowHuay)**: An e-commerce web application built with React and Node.js.  
-- **[SkillKamp StudyCase](https://github.com/JaySorawit/SkillKamp_StudyCase_FrontEnd)**: A front-end project for SkillKamp.  
-- **[BankCustomerChurnPrediction](https://github.com/JaySorawit/BankCustomerChurnPrediction)**: A machine learning project predicting customer churn using Random Forest.  
-
----
-
 ✨ _“Building the future with code!”_
